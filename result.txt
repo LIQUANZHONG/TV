@@ -1,5 +1,4 @@
-更新时间,#genre#
-2024-10-10 10:38:52,url
+
 广东频道,#genre#
 广东珠江,http://119.129.173.99:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://119.142.76.36:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
